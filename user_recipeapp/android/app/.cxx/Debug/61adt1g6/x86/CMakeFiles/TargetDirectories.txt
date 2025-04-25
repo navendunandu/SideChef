@@ -1,0 +1,2 @@
+C:/Recipe-App-Flutter/Project/user_recipeapp/android/app/.cxx/Debug/61adt1g6/x86/CMakeFiles/edit_cache.dir
+C:/Recipe-App-Flutter/Project/user_recipeapp/android/app/.cxx/Debug/61adt1g6/x86/CMakeFiles/rebuild_cache.dir

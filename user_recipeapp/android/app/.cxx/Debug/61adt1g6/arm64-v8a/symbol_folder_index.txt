@@ -1,0 +1,1 @@
+C:\Recipe-App-Flutter\Project\user_recipeapp\build\app\intermediates\cxx\Debug\61adt1g6\obj\arm64-v8a
